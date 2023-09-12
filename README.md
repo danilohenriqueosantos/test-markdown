@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css" />
-
 | **Campo** | **Tipo** | **Mandatório** | **Descrição** |
 | --- | --- | --- | --- |
 | baselineId | Number | Y | Numero identificativo da Baseline e que corresponde com a sua versão |
