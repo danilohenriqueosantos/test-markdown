@@ -1,1 +1,1 @@
-### Red text title {#identifier style="color:red;"}
+### Red text title {#identifier color:red}
